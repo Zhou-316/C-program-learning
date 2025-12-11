@@ -11,7 +11,7 @@ int main(){
          break;
       }
       n++;
-   }//冒泡排序
+   }//冒泡排序;
    for(int j=0;j<n;j++){
       for(int k=j;k<n;k++){
          if(strlen(p[j])>strlen(p[k])){
